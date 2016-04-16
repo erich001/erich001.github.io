@@ -43,14 +43,14 @@ table {
 }
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.5;
   color: #000;
 }
 
 a {
   font-weight: bold;
-  color: #d5000d;
+  color: #00d5c8;
 }
 
 header {
@@ -60,7 +60,7 @@ header {
 
 header h1 {
   font-size: 48px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
@@ -204,9 +204,9 @@ dl dd {
 
 footer {
   padding-top: 20px;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
   margin-top: 40px;
-  font-size: 13px;
+  font-size: 8px;
   color: #aaa;
 }
 
